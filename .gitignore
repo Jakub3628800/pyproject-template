@@ -75,3 +75,4 @@ venv.bak/
 dmypy.json
 
 
+*.egg-info/
